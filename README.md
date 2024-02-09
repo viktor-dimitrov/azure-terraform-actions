@@ -1,2 +1,2 @@
 # azure-terraform-actions
-configuration from the previous task (for provisioning Azure resources and deploying the "TaskBoard" Web app to Azure Web Apps) to GitHub and will use GitHub Actions workflows to test and run the configuration.
+Configuration for provisioning Azure resources and deploying the "TaskBoard" Web app ( https://github.com/viktor-dimitrov/azure-terraform-test ) to Azure Web Apps) to GitHub and use GitHub Actions workflows to test and run the configuration.
